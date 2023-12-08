@@ -1,6 +1,6 @@
 import requests as requests
 
-API_KEY = "14a8d18855aa10cc69cb2159b3bc643b"
+API_KEY = ""
 degree_symbol = "°"
 lat, lon = "50.0755", "14.4378"
 
